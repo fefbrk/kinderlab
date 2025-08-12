@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { ROOT_URL } from '../../services/apiService';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
@@ -114,7 +115,7 @@ const MediaCoverageDetail: React.FC = () => {
                     <img
                       src={mediaCoverage.images[currentImageIndex].src.startsWith('http') 
                         ? mediaCoverage.images[currentImageIndex].src 
-                        : `http://localhost:3001${mediaCoverage.images[currentImageIndex].src}`}
+                        : `${ROOT_URL}${mediaCoverage.images[currentImageIndex].src}`}
                       alt={mediaCoverage.images[currentImageIndex].alt || `${mediaCoverage.title} - Image ${currentImageIndex + 1}`}
                       className="w-full h-full object-cover rounded-lg"
                     />

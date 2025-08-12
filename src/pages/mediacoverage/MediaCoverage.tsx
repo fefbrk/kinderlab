@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { ROOT_URL } from '@/services/apiService';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import { apiService, type MediaCoverage } from '../../services/apiService';
@@ -81,7 +82,7 @@ const MediaCoverage = () => {
                       {coverage.images && coverage.images.length > 0 ? (
                         <>
                           <img
-                            src={coverage.images[0].src.startsWith('http') ? coverage.images[0].src : `http://localhost:3001${coverage.images[0].src}`}
+                            src={coverage.images[0].src.startsWith('http') ? coverage.images[0].src : `${ROOT_URL}${coverage.images[0].src}`}
                             alt={coverage.title}
                             className="w-full h-full object-cover"
                           />

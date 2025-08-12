@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { ROOT_URL } from '../../services/apiService';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
@@ -114,7 +115,7 @@ const PressReleaseDetail: React.FC = () => {
                     <img
                       src={pressRelease.images[currentImageIndex].src.startsWith('http') 
                         ? pressRelease.images[currentImageIndex].src 
-                        : `http://localhost:3001${pressRelease.images[currentImageIndex].src}`}
+                        : `${ROOT_URL}${pressRelease.images[currentImageIndex].src}`}
                       alt={pressRelease.images[currentImageIndex].alt || `${pressRelease.title} - Image ${currentImageIndex + 1}`}
                       className="w-full h-full object-cover rounded-lg"
                     />

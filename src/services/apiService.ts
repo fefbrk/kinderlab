@@ -1,6 +1,7 @@
 // API Service - Backend ile iletişim için
 
-const API_BASE_URL = 'http://localhost:3001/api';
+export const ROOT_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+const API_BASE_URL = `${ROOT_URL}/api`;
 
 // Backend'den gelen kullanıcı verisi (şifre içermez)
 export interface User {

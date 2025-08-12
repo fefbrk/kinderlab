@@ -1,5 +1,8 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { ROOT_URL } from '@/services/apiService';
+
+
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import { apiService, PressRelease } from '../../services/apiService';
@@ -81,7 +84,7 @@ const PressReleases = () => {
                       {release.images && release.images.length > 0 ? (
                         <>
                           <img
-                            src={release.images[0].src.startsWith('http') ? release.images[0].src : `http://localhost:3001${release.images[0].src}`}
+                            src={release.images[0].src.startsWith('http') ? release.images[0].src : `${ROOT_URL}${release.images[0].src}`}
                             alt={release.title}
                             className="w-full h-full object-cover"
                           />

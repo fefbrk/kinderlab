@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
+import { ROOT_URL } from '@/services/apiService';
 import { useToast } from '@/components/ui/use-toast';
 import { useAuth } from '@/context/AuthContext';
 import { Navigate } from 'react-router-dom';
@@ -1856,7 +1857,7 @@ const SimpleAdminDashboard = () => {
                     {blogFormData.images.map((image, index) => (
                       <div key={index} className="flex items-center space-x-2 p-2 bg-gray-50 rounded">
                         <img
-                          src={image.src.startsWith('http') ? image.src : `http://localhost:3001${image.src}`}
+                          src={image.src.startsWith('http') ? image.src : `${ROOT_URL}${image.src}`}
                           alt={image.alt}
                           className="w-16 h-16 object-cover rounded"
                           onError={(e) => {
@@ -2419,7 +2420,7 @@ const SimpleAdminDashboard = () => {
                     {eventFormData.imageUrl && (
                       <div className="flex items-center space-x-2 p-2 bg-gray-50 rounded">
                         <img
-                          src={eventFormData.imageUrl.startsWith('http') ? eventFormData.imageUrl : `http://localhost:3001${eventFormData.imageUrl}`}
+                          src={eventFormData.imageUrl.startsWith('http') ? eventFormData.imageUrl : `${ROOT_URL}${eventFormData.imageUrl}`}
                           alt="Event image"
                           className="w-16 h-16 object-cover rounded"
                           onError={(e) => {
