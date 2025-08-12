@@ -16,7 +16,7 @@ const About = () => {
               </p>
             </div>
             <div className="w-1/3 flex justify-end items-center h-full">
-              <img src="/src/assets/about/Screen-Shot-2022-11-06-at-12.webp" alt="KinderLab Robotics Story" className="max-h-[90%] w-[55%] object-contain rounded-lg shadow-lg" />
+              <img src="/assets/about/Screen-Shot-2022-11-06-at-12.webp" alt="KinderLab Robotics Story" className="max-h-[90%] w-[55%] object-contain rounded-lg shadow-lg" />
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-48 h-48 mx-auto mb-6 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/marina-image-import-263x279.webp"
+                    src="/assets/about/marina-image-import-263x279.webp"
                     alt="Marina Umaschi Bers"
                     className="w-full h-full object-cover"
                   />
@@ -83,7 +83,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-48 h-48 mx-auto mb-6 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/mitch-145x173.jpg"
+                    src="/assets/about/mitch-145x173.jpg"
                     alt="Mitch Rosenberg"
                     className="w-full h-full object-cover"
                   />
@@ -155,7 +155,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/Elisabeth_Bennett-145x145.webp"
+                    src="/assets/about/Elisabeth_Bennett-145x145.webp"
                     alt="Jack Bennett"
                     className="w-full h-full object-cover"
                   />
@@ -168,7 +168,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/Jason-Innes-headshot-2023-e1693520185958-300x300.jpg"
+                    src="/assets/about/Jason-Innes-headshot-2023-e1693520185958-300x300.jpg"
                     alt="Jason Innes"
                     className="w-full h-full object-cover"
                   />
@@ -181,7 +181,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/Dave-Jennett-145x145.jpg"
+                    src="/assets/about/Dave-Jennett-145x145.jpg"
                     alt="Dave Jennett"
                     className="w-full h-full object-cover"
                   />
@@ -194,7 +194,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/Christina-163x163.jpg"
+                    src="/assets/about/Christina-163x163.jpg"
                     alt="Christina MacCaughey"
                     className="w-full h-full object-cover"
                   />
@@ -207,7 +207,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/Laura-Segel-145x145.webp"
+                    src="/assets/about/Laura-Segel-145x145.webp"
                     alt="Laura Segel"
                     className="w-full h-full object-cover"
                   />
@@ -220,7 +220,7 @@ const About = () => {
               <div className="text-center">
                 <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                   <img
-                    src="/src/assets/about/itai-photo-145x145.jpg"
+                    src="/assets/about/itai-photo-145x145.jpg"
                     alt="Itai Squires-Kasten"
                     className="w-full h-full object-cover"
                   />

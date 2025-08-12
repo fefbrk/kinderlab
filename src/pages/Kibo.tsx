@@ -86,9 +86,9 @@ const Kibo = () => {
               </div>
               <div className="lg:w-1/2">
                 <div className="flex gap-3 justify-center">
-                  <img src="/src/assets/kibo/kibo-be1.jpg" alt="KIBO Activity 1" className="w-32 h-80 object-cover rounded-lg shadow-lg" />
-                  <img src="/src/assets/kibo/IMG_0953-183-scaled-1.jpg" alt="KIBO Activity 2" className="w-32 h-80 object-cover rounded-lg shadow-lg" />
-                  <img src="/src/assets/kibo/Science-Space-Shuttle-and-Earth-1.jpg" alt="KIBO Activity 3" className="w-32 h-80 object-cover rounded-lg shadow-lg" />
+                  <img src="/assets/kibo/kibo-be1.jpg" alt="KIBO Activity 1" className="w-32 h-80 object-cover rounded-lg shadow-lg" />
+                  <img src="/assets/kibo/IMG_0953-183-scaled-1.jpg" alt="KIBO Activity 2" className="w-32 h-80 object-cover rounded-lg shadow-lg" />
+                  <img src="/assets/kibo/Science-Space-Shuttle-and-Earth-1.jpg" alt="KIBO Activity 3" className="w-32 h-80 object-cover rounded-lg shadow-lg" />
                 </div>
               </div>
             </div>

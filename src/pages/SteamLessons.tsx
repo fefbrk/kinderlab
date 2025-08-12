@@ -64,7 +64,7 @@ const SteamLessons: React.FC = () => {
                   <p className="text-gray-600 mb-4">
                     <strong>Bring <span className="text-gray-600">addition and subtraction to life!</span></strong> - KIBO moves forward 3 and back 1. Where is KIBO on the number line?
                   </p>
-                  <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Number-Line-Adv-Hour-Of-Code-2021.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                  <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Number-Line-Adv-Hour-Of-Code-2021.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                      DOWNLOAD
                    </a>
                 </div>
@@ -90,7 +90,7 @@ const SteamLessons: React.FC = () => {
                   <p className="text-gray-600 mb-4">
                     <strong><span className="text-gray-600">Design and build your Dream Car with KIBO!</span></strong> - Vroom! Vroom!
                   </p>
-                  <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Dream-Car-Intro-Hour-Of-Code-2021.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                  <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Dream-Car-Intro-Hour-Of-Code-2021.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                       DOWNLOAD
                     </a>
                 </div>
@@ -110,7 +110,7 @@ const SteamLessons: React.FC = () => {
                   <p className="text-gray-600 mb-4">
                     <strong><span className="text-gray-600">Engineers keep trying!</span></strong> - Let's be engineers. We will test and improve our creations until they survive a fall!
                   </p>
-                  <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Craft-and-Build-Drop-Test-Hour-Of-Code-2020.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                  <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Craft-and-Build-Drop-Test-Hour-Of-Code-2020.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                       DOWNLOAD
                      </a>
                 </div>
@@ -136,7 +136,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">A program is a story!</span></strong> - Let's be programmers and robots! In this robotics curriculum, learn how to create a sequence of instructions that your friends can follow.
                    </p>
-                   <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Lets-Program-Each-Other-Hour-Of-Code-2020.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                   <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Lets-Program-Each-Other-Hour-Of-Code-2020.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                       DOWNLOAD
                      </a>
                  </div>
@@ -156,7 +156,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">Create your own Dance Party Today!</span></strong> - When studying a cultural studies unit, students will deepen their understanding of the music and customs of the chosen culture. Let's get moving and shaking!
                    </p>
-                   <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Dance-Party.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                   <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Dance-Party.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                        DOWNLOAD
                      </a>
                  </div>
@@ -182,7 +182,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">Who can knock their pins down the fastest?</span></strong> - Use KIBO to teach kids coding by creating a program to travel the length of the lane. Let's get bowling!
                    </p>
-                    <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Bowling.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                    <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Bowling.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                       DOWNLOAD
                      </a>
                  </div>
@@ -202,7 +202,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">Who can help clean up the town?</span></strong> Design a snowplow for KIBO, then give it a program to clean our streets of snow!
                    </p>
-                    <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Snowplow-Hour-Of-Code-2019.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                    <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Snowplow-Hour-Of-Code-2019.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                        DOWNLOAD
                       </a>
                  </div>
@@ -228,7 +228,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">Let's dance with our KIBO!</span></strong> - Design a program with KIBO's output parts — like the light bulb — to show how happy you are!
                    </p>
-                   <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Snowplow-Hour-Of-Code-2019.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                   <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Snowplow-Hour-Of-Code-2019.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                      DOWNLOAD
                     </a>
                  </div>
@@ -248,7 +248,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">What makes a community?</span></strong> - In this lesson, students will explore what makes a community and program KIBO to move around their community.
                    </p>
-                   <a href="/src/assets/kibo/use/steam-lessons-and-activities/Our-Community-Our-World.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                   <a href="/assets/kibo/use/steam-lessons-and-activities/Our-Community-Our-World.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                          DOWNLOAD
                        </a>
                  </div>
@@ -274,7 +274,7 @@ const SteamLessons: React.FC = () => {
                    <p className="text-gray-600 mb-4">
                      <strong><span className="text-gray-600">Can KIBO go off-road?</span></strong> - In this lesson, students will explore different terrains and program KIBO to navigate through various obstacles.
                    </p>
-                   <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Olympics.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                   <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Olympics.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                       DOWNLOAD
                      </a>
                  </div>
@@ -303,7 +303,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        The cards can be used independently by students in a classroom activity station, as the basis for teacher-guided lessons in math, science, art, and social learning, or with KIBO at home. Each card invites children into a different creative, imaginative activity with KIBO that combines coding, building, art, and play.
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/Activity-Card-5-Snowplow.pdf" download className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/Activity-Card-5-Snowplow.pdf" download className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                         DOWNLOAD
                       </a>
                    </div>
@@ -329,7 +329,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        Decorate KIBO as a pet and teach it to perform a trick when you clap!
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Activity-Pet-Trick.pdf" download className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Activity-Pet-Trick.pdf" download className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                         DOWNLOAD
                       </a>
                    </div>
@@ -349,7 +349,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        Scan your program, press KIBO's "go" button and watch KIBO go!
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Activity-Dream-Car.pdf" download className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Activity-Dream-Car.pdf" download className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                         DOWNLOAD
                       </a>
                    </div>
@@ -375,7 +375,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        KIBO can repeat a pattern of blocks over and over with a repeat loop programming blocks to perform a repeating dance routine!
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/Activity-Card-6-Dancer.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/Activity-Card-6-Dancer.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                         DOWNLOAD
                       </a>
                    </div>
@@ -395,7 +395,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        Design your fire truck, attach it to KIBO and create a unique programming sequence for your firetruck to get to the fire to help out the community. Put on the flashing lights lightbulb output sensor and drive!
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/Activity-Card-7-Fire-Truck.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/Activity-Card-7-Fire-Truck.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                        DOWNLOAD
                       </a>
                    </div>
@@ -421,7 +421,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        Add a light show with KIBO's lightbulb to create a fun performance!
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/KIBO-Activity-Concert-Performer.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/KIBO-Activity-Concert-Performer.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-purple text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-orange focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                        DOWNLOAD
                       </a>
                    </div>
@@ -445,7 +445,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        The "guide offers 8 activities using floor maps to address learning standards in math, literacy, science, social studies, and design work. Let your kids go KIBO! Floor map activities get young kids moving and collaborating in physical space – enhancing the strengths of using KIBO and robotics curriculum in the classroom.
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/Maps-Measurement-and-Make-Believe.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/Maps-Measurement-and-Make-Believe.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                         DOWNLOAD
                       </a>
                    </div>
@@ -468,7 +468,7 @@ const SteamLessons: React.FC = () => {
                      <p className="text-gray-600 mb-4">
                        What zoo animal can the kids create? Have they just been to the zoo and want to learn more about their favorite animal? KIBO can be decorated as a zoo animal the child is learning about or is interested in, they can create their "habitat" and program their KIBO to act as that animal in this STEAM activity. What is your favorite animal?
                      </p>
-                     <a href="/src/assets/kibo/use/steam-lessons-and-activities/The-KIBO-Zoo-KinderLab-Robotics.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
+                     <a href="/assets/kibo/use/steam-lessons-and-activities/The-KIBO-Zoo-KinderLab-Robotics.pdf" target="_blank" rel="noopener noreferrer" className="bg-kibo-orange text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-block hover:text-kibo-purple focus:outline-none focus:ring-0 hover:shadow-none focus:shadow-none">
                         DOWNLOAD
                       </a>
                    </div>

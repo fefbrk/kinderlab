@@ -46,14 +46,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 1 */}
                             <a
-                                href="/src/assets/resources/whitepapers/Thinking-with-KIBO.pdf"
+                                href="/assets/resources/whitepapers/Thinking-with-KIBO.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Thinking-with-KIBO-Cover-Image.jpg"
+                                        src="/assets/resources/whitepapers/Thinking-with-KIBO-Cover-Image.jpg"
                                         alt="Thinking with KIBO Curriculum"
                                         className="w-full h-48 object-cover"
                                     />
@@ -70,14 +70,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 2 */}
                             <a
-                                href="/src/assets/resources/whitepapers/Horizons-for-Homeless-Use-Case-Final.pdf"
+                                href="/assets/resources/whitepapers/Horizons-for-Homeless-Use-Case-Final.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Screenshot_1.png"
+                                        src="/assets/resources/whitepapers/Screenshot_1.png"
                                         alt="Horizons for Homeless Children Case Study"
                                         className="w-full h-48 object-cover"
                                     />
@@ -94,14 +94,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 3 */}
                             <a
-                                href="/src/assets/resources/whitepapers/Making-the-Case-for-KIBO.pdf"
+                                href="/assets/resources/whitepapers/Making-the-Case-for-KIBO.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/The-Case-for-KIBO-Cover-600x794.jpg"
+                                        src="/assets/resources/whitepapers/The-Case-for-KIBO-Cover-600x794.jpg"
                                         alt="The Case for KIBO"
                                         className="w-full h-48 object-cover"
                                     />
@@ -118,14 +118,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 4 */}
                             <a
-                                href="/src/assets/resources/whitepapers/Maps-Measurement-and-Make-Believe.pdf"
+                                href="/assets/resources/whitepapers/Maps-Measurement-and-Make-Believe.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Map-Guide-Cover-211x300.jpg"
+                                        src="/assets/resources/whitepapers/Map-Guide-Cover-211x300.jpg"
                                         alt="Maps, Measurement, and Make-Believe"
                                         className="w-full h-48 object-cover"
                                     />
@@ -142,14 +142,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 5 */}
                             <a
-                                href="/src/assets/resources/whitepapers/6-Key-Benefits-of-Robotics.pdf"
+                                href="/assets/resources/whitepapers/6-Key-Benefits-of-Robotics.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/6-Reason-White-Paper-Cover-211x300.webp"
+                                        src="/assets/resources/whitepapers/6-Reason-White-Paper-Cover-211x300.webp"
                                         alt="6 Key Benefits of Using Robotics"
                                         className="w-full h-48 object-cover"
                                     />
@@ -166,14 +166,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 6 */}
                             <a
-                                href="/src/assets/resources/whitepapers/Meet-KIBO-Flyer-2019.pdf"
+                                href="/assets/resources/whitepapers/Meet-KIBO-Flyer-2019.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Screenshot_2.png"
+                                        src="/assets/resources/whitepapers/Screenshot_2.png"
                                         alt="Meet KIBO Flyer"
                                         className="w-full h-48 object-cover"
                                     />
@@ -190,14 +190,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 7 */}
                             <a
-                                href="/src/assets/resources/whitepapers/KIBO_Mascot-1.pdf"
+                                href="/assets/resources/whitepapers/KIBO_Mascot-1.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Screenshot_3.png"
+                                        src="/assets/resources/whitepapers/Screenshot_3.png"
                                         alt="Going Full STEAM Ahead"
                                         className="w-full h-48 object-cover"
                                     />
@@ -214,14 +214,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 8 */}
                             <a
-                                href="/src/assets/resources/whitepapers/KL_6-Reasons-Districts-Need-Robotics.pdf"
+                                href="/assets/resources/whitepapers/KL_6-Reasons-Districts-Need-Robotics.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/6-Reasons-Admin-Paper-Cover-211x300.jpg"
+                                        src="/assets/resources/whitepapers/6-Reasons-Admin-Paper-Cover-211x300.jpg"
                                         alt="6 Reasons Your District Needs Early Learning STEAM Robotics"
                                         className="w-full h-48 object-cover"
                                     />
@@ -238,14 +238,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 9 */}
                             <a
-                                href="/src/assets/resources/whitepapers/KL_Learning-Loss_FINAL.pdf"
+                                href="/assets/resources/whitepapers/KL_Learning-Loss_FINAL.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Using-KIBO-In-Any-Environment-Cover.jpg"
+                                        src="/assets/resources/whitepapers/Using-KIBO-In-Any-Environment-Cover.jpg"
                                         alt="Use KIBO to Practice SEL Skills"
                                         className="w-full h-48 object-cover"
                                     />
@@ -262,14 +262,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 10 */}
                             <a
-                                href="/src/assets/resources/whitepapers/3-Benefits-of-Using-KIBO-at-Home.pdf"
+                                href="/assets/resources/whitepapers/3-Benefits-of-Using-KIBO-at-Home.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/home-resource2-1.jpg"
+                                        src="/assets/resources/whitepapers/home-resource2-1.jpg"
                                         alt="Playful STEAM Robotics at Home"
                                         className="w-full h-48 object-cover"
                                     />
@@ -286,14 +286,14 @@ const WhitePapersWebinars: React.FC = () => {
 
                             {/* White Paper 11 */}
                             <a
-                                href="/src/assets/resources/whitepapers/Connecting-with-KIBO.pdf"
+                                href="/assets/resources/whitepapers/Connecting-with-KIBO.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-purple-200 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow block"
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Connecting-with-KIBO-Cover-211x300.jpg"
+                                        src="/assets/resources/whitepapers/Connecting-with-KIBO-Cover-211x300.jpg"
                                         alt="Connecting with KIBO"
                                         className="w-full h-48 object-cover"
                                     />
@@ -328,7 +328,7 @@ const WhitePapersWebinars: React.FC = () => {
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/webinars/20241028-ai-event.jpg"
+                                        src="/assets/resources/webinars/20241028-ai-event.jpg"
                                         alt="Teach K-5 Students How AI Works with Unplugged and Robotics Activities"
                                         className="aspect-video w-full object-cover"
                                     />
@@ -439,7 +439,7 @@ const WhitePapersWebinars: React.FC = () => {
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Screenshot_4.png"
+                                        src="/assets/resources/whitepapers/Screenshot_4.png"
                                         alt="Webinar 5 - Google Slides Presentation"
                                         className="aspect-video w-full object-cover"
                                     />
@@ -550,7 +550,7 @@ const WhitePapersWebinars: React.FC = () => {
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Screenshot_5.png"
+                                        src="/assets/resources/whitepapers/Screenshot_5.png"
                                         alt="Webinar 9 - NAA Web External Link"
                                         className="aspect-video w-full object-cover"
                                     />
@@ -950,7 +950,7 @@ const WhitePapersWebinars: React.FC = () => {
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/webinars/20220310_code-event.png"
+                                        src="/assets/resources/webinars/20220310_code-event.png"
                                         alt="Webinar 23 - EdWeb External Link"
                                         className="aspect-video w-full object-cover"
                                     />
@@ -1001,7 +1001,7 @@ const WhitePapersWebinars: React.FC = () => {
                             >
                                 <div className="relative">
                                     <img
-                                        src="/src/assets/resources/whitepapers/Screenshot_4.png"
+                                        src="/assets/resources/whitepapers/Screenshot_4.png"
                                         alt="Webinar 25 - Google Slides Presentation"
                                         className="aspect-video w-full object-cover"
                                     />

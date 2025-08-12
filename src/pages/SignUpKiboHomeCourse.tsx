@@ -35,7 +35,7 @@ const SignUpKiboHomeCourse: React.FC = () => {
           </div>
           <div className="w-1/3 flex justify-end items-center h-full">
             <img
-              src="/src/assets/kibo/athome/Homeschool-Curriculum-Cover-e1658166584970-231x206.webp"
+              src="/assets/kibo/athome/Homeschool-Curriculum-Cover-e1658166584970-231x206.webp"
               alt="KIBO Home Robotics Course"
               className="max-h-[90%] w-[55%] object-contain rounded-lg shadow-lg"
             />
@@ -74,7 +74,7 @@ const SignUpKiboHomeCourse: React.FC = () => {
                   weekly emails with guidance, suggestions, and activity ideas to support you and help guide your child's progress.
                 </p>
                 <div className="bg-orange-50 p-4 rounded-lg mb-4">
-                  <img src="/src/assets/kibo/athome/home-resource1-225x300.jpg" alt="How does the program work" className="w-32 h-auto mx-auto mb-2" />
+                  <img src="/assets/kibo/athome/home-resource1-225x300.jpg" alt="How does the program work" className="w-32 h-auto mx-auto mb-2" />
                   <p className="text-sm text-center text-purple-700">KIBO Home Robotics Guide</p>
                 </div>
                 <p className="text-gray-700 text-sm">

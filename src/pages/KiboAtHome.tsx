@@ -79,11 +79,11 @@ const KiboAtHome: React.FC = () => {
            <div className="mb-12">
              <div className="flex flex-col md:flex-row items-center gap-8">
                <div className="md:w-1/3">
-                 <img 
-                   src="/src/assets/kibo/athome/IMG_1516-scaled-1-e1658070686438.jpg" 
-                   alt="KIBO Hands-on Coding" 
-                   className="w-full rounded-lg shadow-lg"
-                 />
+                  <img 
+                    src="/assets/kibo/athome/IMG_1516-scaled-1-e1658070686438.jpg" 
+                    alt="KIBO Hands-on Coding" 
+                    className="w-full rounded-lg shadow-lg"
+                  />
                </div>
                <div className="md:w-2/3">
                  <h2 className="text-3xl font-bold text-kibo-purple mb-4">
@@ -187,7 +187,7 @@ const KiboAtHome: React.FC = () => {
               <div className="mb-6">
                 <div className="relative w-full h-48 bg-gray-200 rounded-lg overflow-hidden">
                   <img 
-                    src="/src/assets/kibo/athome/home2-600x338.jpg" 
+                    src="/assets/kibo/athome/home2-600x338.jpg" 
                     alt="Make Your Own Makerspace" 
                     className="w-full h-full object-cover"
                   />
@@ -224,12 +224,12 @@ const KiboAtHome: React.FC = () => {
               {/* More Benefits of KIBO */}
               <div className="rounded-lg shadow-lg overflow-hidden">
                 <img 
-                  src="/src/assets/kibo/athome/home-resource2-1-225x300.jpg" 
+                  src="/assets/kibo/athome/home-resource2-1-225x300.jpg" 
                   alt="More Benefits of KIBO" 
                   className="w-full h-56 object-cover"
                 />
                 <button 
-                  onClick={() => window.open('/src/assets/kibo/athome/3-Benefits-of-Using-KIBO-at-Home.pdf', '_blank')}
+                  onClick={() => window.open('/assets/kibo/athome/3-Benefits-of-Using-KIBO-at-Home.pdf', '_blank')}
                   className="w-full bg-orange-400 text-white py-3 px-6 font-semibold hover:text-kibo-purple transition-colors"
                 >
                   More Benefits of KIBO
@@ -239,7 +239,7 @@ const KiboAtHome: React.FC = () => {
               {/* Watch The KIBO at Home Webinar */}
               <div className="rounded-lg shadow-lg overflow-hidden">
                 <img 
-                  src="/src/assets/kibo/athome/home-resource3-1-225x300.jpg" 
+                  src="/assets/kibo/athome/home-resource3-1-225x300.jpg" 
                   alt="KIBO at Home Webinar" 
                   className="w-full h-56 object-cover"
                 />
@@ -254,7 +254,7 @@ const KiboAtHome: React.FC = () => {
               {/* Start the Home Robotics Course */}
               <div className="rounded-lg shadow-lg overflow-hidden">
                 <img 
-                  src="/src/assets/kibo/athome/home-resource1-1-225x300.jpg" 
+                  src="/assets/kibo/athome/home-resource1-1-225x300.jpg" 
                   alt="Home Robotics Course" 
                   className="w-full h-56 object-cover"
                 />

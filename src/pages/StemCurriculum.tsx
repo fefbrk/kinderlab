@@ -430,7 +430,7 @@ export default function StemCurriculum() {
                 <h3 className="text-lg font-semibold text-gray-700 mb-4">General Standards Mapping</h3>
                 <ul className="space-y-2 mb-6">
                   <li className="text-sm">
-                    • <a href="/src/assets/education/KIBO-Academic-Frameworks-Addressed.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">General overview of academic frameworks addressed with KIBO robotics</a>
+                    • <a href="/assets/education/KIBO-Academic-Frameworks-Addressed.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">General overview of academic frameworks addressed with KIBO robotics</a>
                     <span className="text-gray-500"> (incl. Common Core, NGSS, CSTA CSK12)</span>
                   </li>
                 </ul>
@@ -438,43 +438,43 @@ export default function StemCurriculum() {
                 <h3 className="text-lg font-semibold text-gray-700 mb-4">Standards mappings for Growing with KIBO, our 60-hour K-2 core curriculum:</h3>
                 <ul className="space-y-2 mb-6">
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Standards-Mapping-CSTA-update-Feb-2022.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO mapping to CSTA K12 Standards</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Standards-Mapping-CSTA-update-Feb-2022.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO mapping to CSTA K12 Standards</a>
                     <span className="text-gray-500"> (about the </span>
                     <a href="https://csteachers.org/k12standards/" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">CSTA Standards</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Standards-Alignment-ISTE.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to ISTE Standards for Students</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Standards-Alignment-ISTE.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to ISTE Standards for Students</a>
                     <span className="text-gray-500"> (about the </span>
                     <a href="https://www.iste.org/standards/for-students" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">ISTE Standards</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Standards-Alignment-Georgia-SoE.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Georgia Standards of Excellence in CS</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Standards-Alignment-Georgia-SoE.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Georgia Standards of Excellence in CS</a>
                     <span className="text-gray-500"> (about the </span>
                     <a href="https://www.georgiastandards.org/Georgia-Standards/Pages/Computer-Science.aspx" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Georgia Standards</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Standards-Mapping-Illinois-CS-Draft.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Illinois Draft CS Standards</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Standards-Mapping-Illinois-CS-Draft.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Illinois Draft CS Standards</a>
                     <span className="text-gray-500"> (about the </span>
                     <a href="https://www.isbe.net/Documents/23-1RG-P-20210521.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Illinois Standards</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Standards-Mapping-Iowa-CS.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Iowa CS Standards</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Standards-Mapping-Iowa-CS.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Iowa CS Standards</a>
                     <span className="text-gray-500"> (about the </span>
-                    <a href="/src/assets/education/IowaComputerScienceStandards.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Iowa Standards</a>
+                    <a href="/assets/education/IowaComputerScienceStandards.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Iowa Standards</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Standards-Mapping-Nevada-NVACS.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Nevada CS NVACS</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Standards-Mapping-Nevada-NVACS.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Nevada CS NVACS</a>
                     <span className="text-gray-500"> (about the </span>
                     <a href="https://doe.nv.gov/Nevada_Academic_Standards/Computer_Science/" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Nevada Standards</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/Growing-with-KIBO-Wyoming-WYCPS-alignment.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Wyoming Content and Performance Standards in Computer Science Standards</a>
+                    • <a href="/assets/education/Growing-with-KIBO-Wyoming-WYCPS-alignment.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Growing with KIBO alignment to Wyoming Content and Performance Standards in Computer Science Standards</a>
                     <span className="text-gray-500"> (about the </span>
                     <a href="https://edu.wyoming.gov/" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Wyoming Standards</a>
                     <span className="text-gray-500">)</span>
@@ -505,13 +505,13 @@ export default function StemCurriculum() {
                 <h3 className="text-lg font-semibold text-gray-700 mb-4">Standards mappings for Creating with KIBO, our abbreviated core curriculum:</h3>
                 <ul className="space-y-2 mb-6">
                   <li className="text-sm">
-                    • <a href="/src/assets/education/KIBO-MA-DLCS-Crosswalk.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Creating with KIBO crosswalk with MA Digital Literacy and Computer Science Standards</a>
+                    • <a href="/assets/education/KIBO-MA-DLCS-Crosswalk.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Creating with KIBO crosswalk with MA Digital Literacy and Computer Science Standards</a>
                     <span className="text-gray-500"> (about </span>
                     <a href="https://d1949rjvrttu9y.cloudfront.net/cutoverswap/maintenance.html" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">MA DLCS</a>
                     <span className="text-gray-500">)</span>
                   </li>
                   <li className="text-sm">
-                    • <a href="/src/assets/education/KIBO-CwK-Idaho-Content-Standards-Crosswalk-KinderLab-26-Nov-2018.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Creating with KIBO mapping to Idaho Content Standards</a>
+                    • <a href="/assets/education/KIBO-CwK-Idaho-Content-Standards-Crosswalk-KinderLab-26-Nov-2018.pdf" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Creating with KIBO mapping to Idaho Content Standards</a>
                     <span className="text-gray-500"> (about </span>
                     <a href="https://www.sde.idaho.gov/academic/computer-science/" target="_blank" rel="noopener noreferrer" className="text-kibo-orange underline hover:text-kibo-orange/80">Idaho ICS in Computer Science</a>
                     <span className="text-gray-500">)</span>

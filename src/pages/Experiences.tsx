@@ -310,8 +310,8 @@ description: 'See student-lead learning programs merging play, STEAM learning, a
             <p>KIBO Ambassador Dr. Heather McKeen is an Assistant Professor of Elementary Education at Columbus State University. Learn more about <a href="https://www.columbusstate.edu/" target="_blank" rel="noopener noreferrer" style="color: #ff6b35; text-decoration: underline; font-weight: 500;">Dr. McKeen's work</a> at her faculty page.</p>
         `,
         images: [
-            '/src/assets/resources/experiences/23/2b9343b3-98db-4204-ae6d-ceb05659d41a.jpeg',
-            '/src/assets/resources/experiences/23/fb482bc9-4c7c-4a52-a7bc-ec40357616a9-960x720.jpeg'
+            '/assets/resources/experiences/23/2b9343b3-98db-4204-ae6d-ceb05659d41a.jpeg',
+            '/assets/resources/experiences/23/fb482bc9-4c7c-4a52-a7bc-ec40357616a9-960x720.jpeg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -375,9 +375,9 @@ description: 'Students programmed KIBO to tour the solar system, under the comma
         
             `,  
         images: [
-            '/src/assets/resources/experiences/13/Science-Space-Shuttle-and-Earth-1.jpg',
-            '/src/assets/resources/experiences/13/Science-and-Exploration-Space-and-planets-1-600x450.jpg',
-            '/src/assets/resources/experiences/13/launching-600x450.jpg'
+            '/assets/resources/experiences/13/Science-Space-Shuttle-and-Earth-1.jpg',
+            '/assets/resources/experiences/13/Science-and-Exploration-Space-and-planets-1-600x450.jpg',
+            '/assets/resources/experiences/13/launching-600x450.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -403,7 +403,7 @@ description: '2nd graders put their KIBO coding knowledge to the test in the ult
         
             `,
         images: [
-            '/src/assets/resources/experiences/14/Kelly-Knight-obstacle-bowling.webp'
+            '/assets/resources/experiences/14/Kelly-Knight-obstacle-bowling.webp'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -426,10 +426,10 @@ description: 'This cross curricular activity brings research, science, arts and 
         
             `,
         images: [
-            '/src/assets/resources/experiences/15/Baby-foil-whales-on-painted-floor-map-300x291.jpg',
-            '/src/assets/resources/experiences/15/Expert-Badges-1024x182.webp',
-            '/src/assets/resources/experiences/15/Migrating-whale-KIBO.webp',
-            '/src/assets/resources/experiences/15/Momma-and-baby-enjoy-eating-in-their-lagoon-scaled-300x235.jpg'
+            '/assets/resources/experiences/15/Baby-foil-whales-on-painted-floor-map-300x291.jpg',
+            '/assets/resources/experiences/15/Expert-Badges-1024x182.webp',
+            '/assets/resources/experiences/15/Migrating-whale-KIBO.webp',
+            '/assets/resources/experiences/15/Momma-and-baby-enjoy-eating-in-their-lagoon-scaled-300x235.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -459,8 +459,8 @@ description: 'Students used KIBO’s Sound/Record Playback Module to tell storie
             <br>
             `,
         images: [
-            '/src/assets/resources/experiences/16/IMG_7869-scaled-1024x768.jpg',
-            '/src/assets/resources/experiences/16/IMG_7892-scaled-1024x768.jpg',
+            '/assets/resources/experiences/16/IMG_7869-scaled-1024x768.jpg',
+            '/assets/resources/experiences/16/IMG_7892-scaled-1024x768.jpg',
             'https://youtu.be/XvGkwG9wgUE'
         ],
         categories: ['Experiences'],
@@ -478,11 +478,11 @@ description: 'KIBO Dances the Virginia Reel! KIBO is programmed to perform a do-
             <p>KIBO Dances the Virginia Reel! For this dance program, we programmed a series of “figures” (circle with your partner, do-si-do, etc) individually, then linked them together into one long program separated by Wait for Clap blocks. This way the KIBO robots stayed synchronized; it also represented the role of the “caller” in this type of folk dance, who tells the dancers when to start each figure.</p>
             <br>
             <p>Here are images of the program sections:</p><br>
-            <p>For more about KIBO curriculum based on dance, check out <a href="/src/assets/resources/experiences/Dances-Around-the-World-KIBO-Curriculum.pdf" target="_blank" rel="noopener noreferrer" style="color: #ff6b35; text-decoration: underline; font-weight: 500;">"Dances from Around the World"</a> from DevTech Research Group. Music in video: "Virginia Reel" recorded by Mark Geslison and Geoff Groberg <a href="https://geslisongroberg.com/" target="_blank" rel="noopener noreferrer" style="color: #ff6b35; text-decoration: underline; font-weight: 500;">(http://geslisongroberg.com/)</a>
+            <p>For more about KIBO curriculum based on dance, check out <a href="/assets/resources/experiences/Dances-Around-the-World-KIBO-Curriculum.pdf" target="_blank" rel="noopener noreferrer" style="color: #ff6b35; text-decoration: underline; font-weight: 500;">"Dances from Around the World"</a> from DevTech Research Group. Music in video: "Virginia Reel" recorded by Mark Geslison and Geoff Groberg <a href="https://geslisongroberg.com/" target="_blank" rel="noopener noreferrer" style="color: #ff6b35; text-decoration: underline; font-weight: 500;">(http://geslisongroberg.com/)</a>
         `,
         images: [
-            '/src/assets/resources/experiences/17/3-Do-si-do_sm-150x150.jpg',
-            '/src/assets/resources/experiences/17/4-Promenade_sm-150x150.jpg',
+            '/assets/resources/experiences/17/3-Do-si-do_sm-150x150.jpg',
+            '/assets/resources/experiences/17/4-Promenade_sm-150x150.jpg',
             'https://youtu.be/4Db9gKG-WU0'
         ],
         categories: ['Experiences'],
@@ -523,7 +523,7 @@ description: 'During “Toying with Tech” kids created a coding program and te
         
             `,
         images: [
-            '/src/assets/resources/experiences/19/KIBO-Maze-1-e1658070594932.jpg'
+            '/assets/resources/experiences/19/KIBO-Maze-1-e1658070594932.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -584,9 +584,9 @@ description: 'See how second grade students used KIBO within an integrated Greek
 
             `,
         images: [
-            '/src/assets/resources/experiences/20/Greek-God.jpg',
-            '/src/assets/resources/experiences/20/History-Greek-Gods-1-600x400.jpg',
-            '/src/assets/resources/experiences/20/Steward-Greek-Robots-062-M.jpg'
+            '/assets/resources/experiences/20/Greek-God.jpg',
+            '/assets/resources/experiences/20/History-Greek-Gods-1-600x400.jpg',
+            '/assets/resources/experiences/20/Steward-Greek-Robots-062-M.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -608,8 +608,8 @@ description: 'Watch as children read the children\'s book "We\'re Going on a Bea
 <p> 3) “We’re not going on a bear hunt again!!” (After KIBO reverses back to where he began, crashing into a long body pillow using the Distance Sensor on the back portal.)</p>
         `,
         images: [
-            '/src/assets/resources/experiences/21/Planning-150x150.jpg',
-            '/src/assets/resources/experiences/21/Storytelling-Goin-on-a-Bear-Hunt-1-150x150.jpg'
+            '/assets/resources/experiences/21/Planning-150x150.jpg',
+            '/assets/resources/experiences/21/Storytelling-Goin-on-a-Bear-Hunt-1-150x150.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -646,8 +646,8 @@ description: 'First Graders and their KIBO robots celebrated the 100th Day of Sc
             <p>New programming options were introduced for this experience. The students learned about repeats, loops, and parameters; as well as new vocabulary, as we discussed destination icons. Working in teams, the students selected their favorite ways to make 100 and wrote their math equations on KIBO’s new expression modules! It was amazing to watch the teamwork in action, as the students created complex sequences with the blocks. Each KIBO danced with varying styles, and it was a magical sight to watch the children cheer on the robots as they partied all the way to Yavneh! 100th day of school – here we come!</p>
         `,
         images: [
-            '/src/assets/resources/experiences/23/2b9343b3-98db-4204-ae6d-ceb05659d41a.jpeg',
-            '/src/assets/resources/experiences/23/fb482bc9-4c7c-4a52-a7bc-ec40357616a9-960x720.jpeg'
+            '/assets/resources/experiences/23/2b9343b3-98db-4204-ae6d-ceb05659d41a.jpeg',
+            '/assets/resources/experiences/23/fb482bc9-4c7c-4a52-a7bc-ec40357616a9-960x720.jpeg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -667,8 +667,8 @@ description: 'KIBO is introduced in a step by step approach – from learning th
             <p>On day 3, I handed out the IF block and the tiles that go with that. Finally, we got into the nested IF inside the REPEAT loop. Students had challenges along the way – make a square, make a zigzag, make a crazy car that looks like it bounces off the walls and backs up and spins when it encounters an obstacle, make a school bus that stops each time you shine your light and continues on its way when you clap, etc. Students loved working with the KIBOs and were able to grasp these coding and logic concepts as well as a good dose of teamwork and perseverance!</p>
         `,
         images: [
-            '/src/assets/resources/experiences/24/IMG_2665.jpg',
-            '/src/assets/resources/experiences/24/Using-Sensors-scaled-768x1024.jpg'
+            '/assets/resources/experiences/24/IMG_2665.jpg',
+            '/assets/resources/experiences/24/Using-Sensors-scaled-768x1024.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -696,7 +696,7 @@ description: 'The students at the First Skool created a carousel with KIBO – b
             <p>Though it may appear to be a simple carousel, the teachers and children went through a process to solve different problems they encountered throughout the project, and they were also required to communicate with their peers and teachers on the design and to solve the problems they faced. The used of tech-enabled toys allowed teachers and children to “tinker” with opportunities to constantly try and redo. This project helped both our teachers and children learn through play and also built a wonderful carousel that they were very proud to showcase at the Learning and Sharing Festival.”
         `,
         images: [
-            '/src/assets/resources/experiences/25/KIBO-Carousel.jpg'
+            '/assets/resources/experiences/25/KIBO-Carousel.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -733,9 +733,9 @@ description: 'Read about a first grade classroom experience blending engineering
         
             `,
         images: [
-            '/src/assets/resources/experiences/26/IMG_0135-300x225.jpg',
-            '/src/assets/resources/experiences/26/IMG_0147.jpg',
-            '/src/assets/resources/experiences/26/IMG_0172.jpg'
+            '/assets/resources/experiences/26/IMG_0135-300x225.jpg',
+            '/assets/resources/experiences/26/IMG_0147.jpg',
+            '/assets/resources/experiences/26/IMG_0172.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],
@@ -776,8 +776,8 @@ description: 'Learn how PreK kids used KIBO and its Engineering Design Journals 
 
             `,
         images: [
-            '/src/assets/resources/experiences/27/Kids-with-KIBO-says-cards-530x764.jpg',
-            '/src/assets/resources/experiences/27/Kids-with-KIBO-says-cards.jpg'
+            '/assets/resources/experiences/27/Kids-with-KIBO-says-cards-530x764.jpg',
+            '/assets/resources/experiences/27/Kids-with-KIBO-says-cards.jpg'
         ],
         categories: ['Experiences'],
         tags: ['Sample'],

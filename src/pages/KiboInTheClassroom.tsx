@@ -148,7 +148,7 @@ const KiboInTheClassroom: React.FC = () => {
              <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                {/* Left Column - KIBO Grows with Your Students */}
                 <div className="text-left">
-                  <img src="/src/assets/kibo/kibointheclassroom/kibo-kids-600x338.jpg" alt="KIBO Grows with Students" className="w-full h-64 object-cover rounded-lg mb-6" />
+                  <img src="/assets/kibo/kibointheclassroom/kibo-kids-600x338.jpg" alt="KIBO Grows with Students" className="w-full h-64 object-cover rounded-lg mb-6" />
                   <h3 className="text-2xl font-bold text-kibo-purple mb-4">KIBO Grows with Your Students</h3>
                   <p className="text-gray-600 mb-4 text-justify">
                     Teachers and administrators appreciate the longevity of KIBO coding robots for the classroom. With cumulative lesson plans, out-of-the-box and ready-to-use curricula, activities, KIBO builds on skillsets year after year.
@@ -158,7 +158,7 @@ const KiboInTheClassroom: React.FC = () => {
                   </p>
                   <div className="text-center">
                     <button 
-                      onClick={() => window.open('/src/assets/kibo/kibointheclassroom/KIBO-for-All-Ages-Infographic.jpg', '_blank')}
+                      onClick={() => window.open('/assets/kibo/kibointheclassroom/KIBO-for-All-Ages-Infographic.jpg', '_blank')}
                       className="px-6 py-3 rounded-lg border border-kibo-purple text-kibo-purple hover:bg-kibo-orange hover:text-kibo-purple active:bg-kibo-orange active:text-kibo-purple transition-colors cursor-pointer"
                     >
                       View the Infographic on how KIBO Grows with Students
@@ -168,7 +168,7 @@ const KiboInTheClassroom: React.FC = () => {
                 
                 {/* Right Column - Integrate KIBO with Any Curriculum */}
                 <div className="text-left">
-                  <img src="/src/assets/kibo/kibointheclassroom/kibo-earth-600x338.jpg" alt="Integrate KIBO with Curriculum" className="w-full h-64 object-cover rounded-lg mb-6" />
+                  <img src="/assets/kibo/kibointheclassroom/kibo-earth-600x338.jpg" alt="Integrate KIBO with Curriculum" className="w-full h-64 object-cover rounded-lg mb-6" />
                   <h3 className="text-2xl font-bold text-kibo-purple mb-4">Integrate KIBO with Any Curriculum</h3>
                   <p className="text-gray-600 mb-4 text-justify">
                     Educators have used classroom robotics kits to break down complex subject matters, inspire children to use critical thinking and their own imagination, and challenge themselves resulting in pride of their achievements.
@@ -203,9 +203,9 @@ const KiboInTheClassroom: React.FC = () => {
            <div className="container mx-auto px-4">
              <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                <div className="rounded-lg shadow-lg overflow-hidden">
-                 <img src="/src/assets/kibo/kibointheclassroom/kibo-be5-300x300.jpg" alt="Lesson Plan 1" className="w-full h-56 object-cover" />
+                 <img src="/assets/kibo/kibointheclassroom/kibo-be5-300x300.jpg" alt="Lesson Plan 1" className="w-full h-56 object-cover" />
                  <button 
-                   onClick={() => window.open('/src/assets/kibo/kibointheclassroom/KIBO-Singer-Activity.pdf', '_blank')}
+                   onClick={() => window.open('/assets/kibo/kibointheclassroom/KIBO-Singer-Activity.pdf', '_blank')}
                    className="w-full bg-orange-400 text-white py-3 px-6 font-semibold hover:text-kibo-purple transition-colors"
                  >
                    Download Lesson
@@ -213,9 +213,9 @@ const KiboInTheClassroom: React.FC = () => {
                </div>
                
                <div className="rounded-lg shadow-lg overflow-hidden">
-                 <img src="/src/assets/kibo/kibointheclassroom/Math-and-Estimation-Bowling-Ball-and-Pins-1.jpg" alt="Lesson Plan 2" className="w-full h-56 object-cover" />
+                 <img src="/assets/kibo/kibointheclassroom/Math-and-Estimation-Bowling-Ball-and-Pins-1.jpg" alt="Lesson Plan 2" className="w-full h-56 object-cover" />
                  <button 
-                   onClick={() => window.open('/src/assets/kibo/kibointheclassroom/KIBO-Bowling.pdf', '_blank')}
+                   onClick={() => window.open('/assets/kibo/kibointheclassroom/KIBO-Bowling.pdf', '_blank')}
                    className="w-full bg-orange-400 text-white py-3 px-6 font-semibold hover:text-kibo-purple transition-colors"
                  >
                    Download Lesson
@@ -223,9 +223,9 @@ const KiboInTheClassroom: React.FC = () => {
                </div>
                
                <div className="rounded-lg shadow-lg overflow-hidden">
-                 <img src="/src/assets/kibo/kibointheclassroom/Snowplow-scaled-300x225.jpg" alt="Lesson Plan 3" className="w-full h-56 object-cover" />
+                 <img src="/assets/kibo/kibointheclassroom/Snowplow-scaled-300x225.jpg" alt="Lesson Plan 3" className="w-full h-56 object-cover" />
                  <button 
-                   onClick={() => window.open('/src/assets/kibo/kibointheclassroom/KIBO-Singer-Activity.pdf', '_blank')}
+                   onClick={() => window.open('/assets/kibo/kibointheclassroom/KIBO-Singer-Activity.pdf', '_blank')}
                    className="w-full bg-orange-400 text-white py-3 px-6 font-semibold hover:text-kibo-purple transition-colors"
                  >
                    Download Lesson

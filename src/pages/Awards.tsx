@@ -26,7 +26,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/Cool-Tool-Award-2025-Image.jpg"
+                    src="/assets/awards/footerawards/Cool-Tool-Award-2025-Image.jpg"
                     alt="EdTech Cool Tool Award Winner 2025"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -46,7 +46,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/Nevada-STEMList.webp"
+                    src="/assets/awards/footerawards/Nevada-STEMList.webp"
                     alt="Nevada STEMList of Recommended STEM Programs"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -66,7 +66,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/ENG-Gift-Guide-Seal_transparent-300x300.webp"
+                    src="/assets/awards/footerawards/ENG-Gift-Guide-Seal_transparent-300x300.webp"
                     alt="Purdue University 2024 Inspire Engineering Gift Guide"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -86,7 +86,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/tsp-CT-winner-24.jpg"
+                    src="/assets/awards/footerawards/tsp-CT-winner-24.jpg"
                     alt="The 2024 EdTech Cool Tool Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -106,7 +106,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/ISTEBOS_2024_Winner.webp"
+                    src="/assets/awards/footerawards/ISTEBOS_2024_Winner.webp"
                     alt="Best of ISTE 2024 Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -126,7 +126,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/Winner_Early_Childhood_Learning_Badge_Large.jpg"
+                    src="/assets/awards/footerawards/Winner_Early_Childhood_Learning_Badge_Large.jpg"
                     alt="2024 FETC Pitchfest Winner"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -146,7 +146,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/FETC-Top-Ed-Tech-Product-Finalist-Award.jpeg"
+                    src="/assets/awards/footerawards/FETC-Top-Ed-Tech-Product-Finalist-Award.jpeg"
                     alt="2024 FETC Top EdTech Product Finalist"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -166,7 +166,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/edtechAward-CT-win2023.jpg"
+                    src="/assets/awards/footerawards/edtechAward-CT-win2023.jpg"
                     alt="The 2023 EdTech Cool Tool Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -186,7 +186,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/ENG-Gift-Guide-Seal_aj.webp"
+                    src="/assets/awards/footerawards/ENG-Gift-Guide-Seal_aj.webp"
                     alt="Purdue University 2023 Inspire Engineering Gift Guide"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -206,7 +206,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/2021-fin-white-CT.webp"
+                    src="/assets/awards/footerawards/2021-fin-white-CT.webp"
                     alt="The 2021 EdTech Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -226,7 +226,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/award-brain-toy-lg-trans.webp"
+                    src="/assets/awards/footerawards/award-brain-toy-lg-trans.webp"
                     alt="The 2020 Academics' Choice Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -246,7 +246,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/EdTechDigest_CoolTool-FINALIST-2020.webp"
+                    src="/assets/awards/footerawards/EdTechDigest_CoolTool-FINALIST-2020.webp"
                     alt="The 2020 EdTech Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -266,7 +266,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/Seal-Finalist-Early-Childhood-App.jpg"
+                    src="/assets/awards/footerawards/Seal-Finalist-Early-Childhood-App.jpg"
                     alt="The 2019 Tech Edvocate Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -286,7 +286,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/EdTechDigest_CoolTool-FINALIST-2019.png"
+                    src="/assets/awards/footerawards/EdTechDigest_CoolTool-FINALIST-2019.png"
                     alt="The 2019 EdTech Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -306,7 +306,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/ISTE-BOS-2019-Winner.webp"
+                    src="/assets/awards/footerawards/ISTE-BOS-2019-Winner.webp"
                     alt="ISTE 2019 Best of Show"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -326,7 +326,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/award-brain-toy-lg-trans.webp"
+                    src="/assets/awards/footerawards/award-brain-toy-lg-trans.webp"
                     alt="The 2019 Academics' Choice Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -346,7 +346,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/gold_web.jpeg"
+                    src="/assets/awards/footerawards/gold_web.jpeg"
                     alt="Parents Choice Award"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -366,7 +366,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/Seal-Finalist-Early-Childhood-App-2018.jpeg"
+                    src="/assets/awards/footerawards/Seal-Finalist-Early-Childhood-App-2018.jpeg"
                     alt="The 2018 Tech Edvocate Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -386,7 +386,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/SeriouslyStemWebBadge2018.jpeg"
+                    src="/assets/awards/footerawards/SeriouslyStemWebBadge2018.jpeg"
                     alt="The 2018 Seriously STEM Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -406,7 +406,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/ED-TECH-Awards-Horizontal-RGB-1.webp"
+                    src="/assets/awards/footerawards/ED-TECH-Awards-Horizontal-RGB-1.webp"
                     alt="The EdTech Awards 2018"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -426,7 +426,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/Best-Educational-Gifts-Badge.webp"
+                    src="/assets/awards/footerawards/Best-Educational-Gifts-Badge.webp"
                     alt="Tutora Educational Awards 2017"
                     className="w-80 h-80 mx-auto object-contain"
                   />
@@ -446,7 +446,7 @@ const Awards = () => {
               <div className="group-hover:hidden flex flex-col justify-center h-full">
                 <div className="mb-6">
                   <img
-                    src="/src/assets/awards/footerawards/edvocate-Awards-Finalist-Seal.webp"
+                    src="/assets/awards/footerawards/edvocate-Awards-Finalist-Seal.webp"
                     alt="The 2017 Tech Edvocate Awards"
                     className="w-80 h-80 mx-auto object-contain"
                   />

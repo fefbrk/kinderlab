@@ -16,7 +16,7 @@ const Testimonials = () => {
               </p>
             </div>
             <div className="w-1/3 flex justify-end items-center h-full">
-              <img src="/src/assets/testimonials/teachers-768x615.jpg" alt="Teachers with KIBO" className="max-h-[90%] w-[60%] object-contain rounded-lg shadow-lg" />
+              <img src="/assets/testimonials/teachers-768x615.jpg" alt="Teachers with KIBO" className="max-h-[90%] w-[60%] object-contain rounded-lg shadow-lg" />
             </div>
           </div>
         </div>
@@ -37,72 +37,72 @@ const Testimonials = () => {
             <div className="flex animate-scroll gap-16">
               {/* First set of logos */}
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/mos.webp" alt="Museum of Science" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/mos.webp" alt="Museum of Science" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/jcds.webp" alt="JCDS" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/jcds.webp" alt="JCDS" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/edmonton-csb.webp" alt="Edmonton Catholic Schools" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/edmonton-csb.webp" alt="Edmonton Catholic Schools" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/nyc-doe.webp" alt="NYC Department of Education" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/nyc-doe.webp" alt="NYC Department of Education" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/brookwood-logo.webp" alt="Brookwood School" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/brookwood-logo.webp" alt="Brookwood School" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/cpsd.jpg" alt="Cambridge Public School District" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/cpsd.jpg" alt="Cambridge Public School District" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/desoto-isd.jpg" alt="DeSoto ISD" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/desoto-isd.jpg" alt="DeSoto ISD" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/east-baton-rouge.jpg" alt="East Baton Rouge" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/east-baton-rouge.jpg" alt="East Baton Rouge" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/friends-seminary.jpg" alt="Friends Seminary" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/friends-seminary.jpg" alt="Friends Seminary" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/ottawa-csb.jpg" alt="Ottawa Catholic School Board" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/ottawa-csb.jpg" alt="Ottawa Catholic School Board" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/collegi-montserrat-3.webp" alt="Collegi Montserrat" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/collegi-montserrat-3.webp" alt="Collegi Montserrat" className="max-w-full max-h-full object-contain" />
               </div>
 
               {/* Duplicate set for seamless loop */}
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/mos.webp" alt="Museum of Science" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/mos.webp" alt="Museum of Science" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/jcds.webp" alt="JCDS" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/jcds.webp" alt="JCDS" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/edmonton-csb.webp" alt="Edmonton Catholic Schools" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/edmonton-csb.webp" alt="Edmonton Catholic Schools" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/nyc-doe.webp" alt="NYC Department of Education" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/nyc-doe.webp" alt="NYC Department of Education" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/brookwood-logo.webp" alt="Brookwood School" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/brookwood-logo.webp" alt="Brookwood School" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/cpsd.jpg" alt="Cambridge Public School District" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/cpsd.jpg" alt="Cambridge Public School District" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/desoto-isd.jpg" alt="DeSoto ISD" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/desoto-isd.jpg" alt="DeSoto ISD" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/east-baton-rouge.jpg" alt="East Baton Rouge" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/east-baton-rouge.jpg" alt="East Baton Rouge" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/friends-seminary.jpg" alt="Friends Seminary" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/friends-seminary.jpg" alt="Friends Seminary" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/ottawa-csb.jpg" alt="Ottawa Catholic School Board" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/ottawa-csb.jpg" alt="Ottawa Catholic School Board" className="max-w-full max-h-full object-contain" />
               </div>
               <div className="flex-shrink-0 w-32 h-24 flex items-center justify-center">
-                <img src="/src/assets/testimonials/collegi-montserrat-3.webp" alt="Collegi Montserrat" className="max-w-full max-h-full object-contain" />
+                <img src="/assets/testimonials/collegi-montserrat-3.webp" alt="Collegi Montserrat" className="max-w-full max-h-full object-contain" />
               </div>
             </div>
           </div>
