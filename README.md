@@ -5,7 +5,8 @@ Eğitim robotları için geliştirilmiş modern full-stack web platformu. E-tica
 ## Özellikler
 
 **E-Ticaret Sistemi**
-- 129 ürün sayfası ile kapsamlı katalog
+- Kapsamlı ürün kataloğu (79 ürün sayfası)
+- 9 ana ürün kategorisi (KIBO Kitleri, Sınıf Paketleri, Uzantı Setleri vb.)
 - Gelişmiş alışveriş sepeti ve ödeme sistemi
 - Sipariş yönetimi ve takip
 
@@ -23,6 +24,12 @@ Eğitim robotları için geliştirilmiş modern full-stack web platformu. E-tica
 - Kurs kayıt sistemi
 - Öğretim materyalleri ve etkinlik yönetimi
 
+**Web Sitesi Sayfaları**
+- Ana sayfa ve navigasyon (Mega menü)
+- Kurumsal sayfalar (Hakkımızda, Ödüller, Referanslar)
+- Blog ve içerik sayfaları
+- Hesap yönetimi ve kullanıcı paneli
+
 ## Teknolojiler
 
 **Frontend**
@@ -38,7 +45,14 @@ Eğitim robotları için geliştirilmiş modern full-stack web platformu. E-tica
 
 ## Proje Büyüklüğü
 
-- 129 sayfa
+**Toplam 129 Sayfa:**
+- 79 ürün sayfası (9 kategoride)
+- 20 eğitim ve kaynak sayfası (Kurslar, Etkinlikler, Öğretim materyalleri)
+- 15 ana sayfa (Ana sayfa, Mağaza, Sepet, Ödeme, Giriş vb.)
+- 10 kurumsal sayfa (Hakkımızda, Ödüller, Referanslar, İletişim)
+- 5 hesap yönetimi sayfası (Profil, Siparişler, Ayarlar)
+
+**Diğer:**
 - 64 UI bileşeni
 - 9 veritabanı tablosu
 - 50+ API endpoint
@@ -46,18 +60,19 @@ Eğitim robotları için geliştirilmiş modern full-stack web platformu. E-tica
 
 ## Veritabanı
 
-```
+{{ ... }}
 users → orders → order_items
       → course_registrations
 blog_posts, press_releases, events, media_coverage, contacts
-```
 
-## Proje Yapısı
+## Klasör Yapısı
 
 ```
 ├── src/
 │   ├── components/    # UI bileşenleri
 │   ├── pages/         # Sayfa bileşenleri
+│   │   └── products/  # Ürün kategorileri
+│   ├── assets/        # Görsel ve medya dosyaları
 │   ├── context/       # Global state
 │   └── services/      # API çağrıları
 ├── server/
