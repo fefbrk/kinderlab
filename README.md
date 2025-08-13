@@ -60,11 +60,11 @@ Eğitim robotları için geliştirilmiş modern full-stack web platformu. E-tica
 
 ## Veritabanı
 
-{{ ... }}
+```
 users → orders → order_items
       → course_registrations
 blog_posts, press_releases, events, media_coverage, contacts
-
+```
 ## Klasör Yapısı
 
 ```
